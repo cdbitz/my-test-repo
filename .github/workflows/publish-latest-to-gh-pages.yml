@@ -2,11 +2,11 @@
 #
 name: Update gh-pages branch
 on:
-  push:
+  pull-request:
     branches:
       - master
     paths:
-      - ./helm-repos/index.yaml
+      - ./helm-repos
       - ./README.md
 #
 jobs:
