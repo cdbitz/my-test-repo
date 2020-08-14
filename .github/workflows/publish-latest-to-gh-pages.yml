@@ -6,7 +6,7 @@ on:
     branches:
       - master
     paths:
-      - ./helm-repos
+      - ./helm_repos
       - ./README.md
 #
 jobs:
