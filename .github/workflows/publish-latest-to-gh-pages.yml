@@ -4,7 +4,8 @@ name: update-gh-pages-branch
 on:
   pull_request:
     branches:
-      - master
+#      - master
+      - dev-code-branch
     paths:
       - helm-repos
       - README.md
