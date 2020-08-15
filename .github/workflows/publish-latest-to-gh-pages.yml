@@ -1,6 +1,6 @@
 # Publish the latest version of master to gh-pages branch
 #
-name: update-gh-pages-branch
+name: publish-latest-to-gh-pages
 on:
   pull_request:
     branches:
