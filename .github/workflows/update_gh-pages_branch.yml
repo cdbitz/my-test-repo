@@ -7,7 +7,7 @@ name: update_gh-pages_branch
 on:
   push:
     branches: [ master ]
-    paths: [ README.md, helm-repos ]
+#    paths: [ README.md, helm-repos ]
 #  pull_request:
 #    branches: [ master ]
 
