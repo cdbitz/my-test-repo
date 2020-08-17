@@ -9,7 +9,7 @@ on:
     branches: [ master ]
     paths:
       - README.md
-      - helm-repos/
+      - 'helm-repos/**'
 #  pull_request:
 #    branches: [ master ]
 
