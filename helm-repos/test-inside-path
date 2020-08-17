@@ -1,2 +1,2 @@
 test file for triggering action in specified path
-3rd attempt with change of file contents
+- testing after quoting and wildcards for 'path/**' in workflow
